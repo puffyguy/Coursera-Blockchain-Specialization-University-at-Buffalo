@@ -1,0 +1,6 @@
+This Repository is to Help all who want to get certified cousre from coursera on Blockchain Specialization
+-- The Repo consists quiz answers for following courses -- 
+Blockchain_Basics
+Decentralized_Applications(Dapps)  RepoInfo.txt
+Blockchain_Platforms
+Smart_Contracts
